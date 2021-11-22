@@ -43,4 +43,6 @@ void main()
     int location = 0;
     int temp;
     temp = solution(priorities, location);
+
+    int test = 0;
 }
